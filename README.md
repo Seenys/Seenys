@@ -7,7 +7,7 @@ Web UI & Mobile Developer
 I am an experienced, creative, and dedicated front end developer. Furthermore, I realized different tasks created web apps from beginning to the end of the project, improving the user-friendly, optimizing performance, and being feature-rich on websites. In addition, I leverage my analytical skills and strong attention to detail in order to deliver efficient, original, and quality web solutions. Also, I like to share my technical knowledge and expertise with other coworkers. Finally, I consider myself as a person with the ability to manage teams for my trajectory IT projects.
 
 * 🌍  I'm based in Bogotá Colombia
-* ✉️  You can contact me at [Stephen.Barreto@Globant.com](mailto:Stephen.Barreto@Globant.com)
+* ✉️  You can contact me at [Stephen.Barreto@Globant.com](mailto:Stp.sip7@gmail.com)
 * 🧠  I'm learning Unity - Game Develop
 * ⚡  i love playing videogames with my friends.
 
